@@ -1,4 +1,4 @@
-# Appointment Booking App
+#Doctor Appointment Booking 
 
 
 ## Table of Contents
